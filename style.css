@@ -1,0 +1,27 @@
+#abc
+{
+    width: 200;
+    height: 200;
+    border-radius: 4px;
+    padding: 10px;
+}
+.column
+{
+    display: inline; padding: 10px;
+}
+
+ #camera 
+{ width: 500px; height: 400px; border:1px solid rgb(87, 2, 2); 
+}
+
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+background-color: rgb(179, 179, 250);
+color: darkred;
+font-size: 20;
+font-weight: bold;
+}
